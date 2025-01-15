@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nayeli/Desktop/repos/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/nayeli/Desktop/repos/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/nayeli/Desktop/repos/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/nayeli/Desktop/repos/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/nayeli/.nuget/packages/",
-      "outputPath": "/Users/nayeli/Desktop/repos/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/Users/nayeli/Desktop/repos/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nayeli/.nuget/NuGet/NuGet.Config"

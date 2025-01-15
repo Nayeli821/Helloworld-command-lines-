@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("It's Thursday. Wish it was saturday. ");
+Console.WriteLine(" hi my name is nayeli");
